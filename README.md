@@ -71,8 +71,9 @@ DUAV-Internship-Skyline/
 ├── README.md
 ├── assignments/          # Assignment PDFs
 │   └── DUAV_Assignments.pdf
-├── solidworks/           # SolidWorks part and assembly files
-├── ansys/                # ANSYS simulation files and result screenshots
+├── native/           # SolidWorks part and assembly files
+├── Analysis/                # ANSYS simulation files and result screenshots
+├── step/                # Step files
 └── renders/              # Screenshots and renders
 ```
 
