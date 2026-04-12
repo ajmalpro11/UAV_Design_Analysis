@@ -81,7 +81,7 @@ DUAV-Internship-Skyline/
 
 ## 📄 Assignment Report
 
-📎 [Click here to view the full assignment report](./assignments/DUAV_Assignments.pdf)
+📎 [Click here to view the full assignment report](./Assignments/Ajumal_SkylineSpace_Assignment_with_WM.pdf)
 
 ---
 
